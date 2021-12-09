@@ -11,3 +11,9 @@
 EQUAL,licenseeName,[your custom licnese name]
 EQUAL,paidUpTo,[expired date]
 ```
+For example
+```
+[INFO]
+EQUAL,licenseeName,Neo
+EQUAL,paidUpTo,2012-12-31
+```
